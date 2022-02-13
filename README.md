@@ -26,7 +26,7 @@ d.	The LED will blink four times with different colors when we finish all the fo
 *Violet LED represents Squat                                 
 *Single color shining means this exercise is done            
 *Rainbow blinking means it's finished                       
-
+  
 *The times you want to do in an exercise can be changed      
   by changing value of variable "total"      *             
 
