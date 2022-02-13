@@ -13,18 +13,18 @@ d.	The LED will blink four times with different colors when we finish all the fo
   This can be implemented easily by using the LED function.
   
 ## Basic function description                        
-*Left button is used to convert between random & fixed mode  
-*Right button is used to go to next exercise in fixed mode   
-*Right button is not used in random mode   
+* Left button is used to convert between random & fixed mode  
+* Right button is used to go to next exercise in fixed mode   
+* Right button is not used in random mode   
   
 ## Lights  
-*Red   LED represents Sit-up                                 
-*Green LED represents Push-up                                
-*Blue  LED represnets Jumping jack                           
-*Violet LED represents Squat                                 
-*Single color shining means this exercise is done            
-*Rainbow blinking means it's finished                       
+* Red   LED represents Sit-up                                 
+* Green LED represents Push-up                                
+* Blue  LED represnets Jumping jack                           
+* Violet LED represents Squat                                 
+* Single color shining means this exercise is done            
+* Rainbow blinking means it's finished                       
   
 *The times you want to do in an exercise can be changed      
-  by changing value of variable "total"      *             
+  by changing value of variable "total"*             
 
