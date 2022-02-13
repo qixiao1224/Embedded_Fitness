@@ -12,14 +12,12 @@ I’m working on it if the counter can count successfully when I am doing mixed 
 d.	The LED will blink four times with different colors when we finish all the four exercises.  
   This can be implemented easily by using the LED function.
   
----
-##Basic function description                        
+## Basic function description                        
 *Left button is used to convert between random & fixed mode  
 *Right button is used to go to next exercise in fixed mode   
 *Right button is not used in random mode   
-
----
-##Lights  
+  
+## Lights  
 *Red   LED represents Sit-up                                 
 *Green LED represents Push-up                                
 *Blue  LED represnets Jumping jack                           
