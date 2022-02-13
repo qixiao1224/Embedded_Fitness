@@ -1,5 +1,5 @@
 # Embedded_Fitness
-Code is written by Arduino
+Code is written by Arduino  
 Chip: Adafruit Circuit Playground(ATmega32u4)
 
 My chip will work like this:  
